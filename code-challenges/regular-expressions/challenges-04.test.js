@@ -37,6 +37,7 @@ For example:
 '12345' returns true
 'h3llo world' returns true
 'hello world' returns false
+
 ------------------------------------------------------------------------------------------------ */
 
 const isNum = (input) => {
